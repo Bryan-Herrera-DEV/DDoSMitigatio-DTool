@@ -1,4 +1,4 @@
-# DDoS Mitigacion
+# Mitigacion DDoS 
 
 ## Archivos
 **DTool** Este script instala de forma automática y segura todas las reglas de iptables y modificaciones del kernel que se encuentran en este repositorio al instante. 
